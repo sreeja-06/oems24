@@ -1,0 +1,2 @@
+C:/projects/OEMS/sreeja_oems24/android/app/.cxx/Debug/f2f2y1q1/x86/CMakeFiles/edit_cache.dir
+C:/projects/OEMS/sreeja_oems24/android/app/.cxx/Debug/f2f2y1q1/x86/CMakeFiles/rebuild_cache.dir

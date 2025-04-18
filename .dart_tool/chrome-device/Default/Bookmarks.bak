@@ -1,0 +1,378 @@
+{
+   "checksum": "fd17a022cdb3cad7066bb2b84ba610a0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13343425226060290",
+            "date_last_used": "13348414994270882",
+            "guid": "0a130438-cd46-4c70-8e25-c42e33e3d370",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Amazon.in Bestsellers: The most popular items in Computer Bluelight Blocking Glasses",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.amazon.in/gp/bestsellers/hpc/17516251031",
+            "visit_count": 0
+         }, {
+            "date_added": "13346006002852633",
+            "date_last_used": "0",
+            "guid": "15010873-9b79-4f63-ad69-b015f574d13f",
+            "id": "9",
+            "name": "Best Teen Bollywood Movies | Young Adult Hindi Films - Cinemaholic",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://thecinemaholic.com/teen-young-adult-hindi-films/",
+            "visit_count": 0
+         }, {
+            "date_added": "13348414968083892",
+            "date_last_used": "0",
+            "guid": "77137d61-0ab9-4dc2-848d-b5ba2e0ee8e9",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JAVA SCRIPT THE DEFINITIVE GUIDE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mypustak.com/product/java-script-the-definitive-guide-david-flanagan-9788173660580?1725168",
+            "visit_count": 0
+         }, {
+            "date_added": "13348415502613008",
+            "date_last_used": "0",
+            "guid": "f95cb72b-3a03-49c5-91b1-fca5f3c152b1",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Become a Front End Developer – Front End Web Dev Skills",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/",
+            "visit_count": 0
+         }, {
+            "date_added": "13348827838728748",
+            "date_last_used": "0",
+            "guid": "84f65b0b-8d17-47e0-b603-067b5f445a38",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NDA Exam Preparation & Study Guide Course - Online Video Lessons | Study.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://study.com/academy/course/nda-exam-preparation-study-guide.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13349085281864097",
+            "date_last_used": "0",
+            "guid": "ce2557d7-ec04-4395-b7b4-1ed25fde10f5",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Admission Intakes In The USA - Fall, Spring And Summer",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://studyabroad.careers360.com/articles/us-admission-cycle-know-all-about-spring-summer-and-fall#toc_0",
+            "visit_count": 0
+         }, {
+            "date_added": "13354092764830702",
+            "date_last_used": "0",
+            "guid": "3dc04bd6-e99e-4f84-b72a-4a44974a81a2",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "5 best vocal teachers on Youtube offering free singing lessons in 2022",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.interkultur.com/newsroom/world-of-voices/details/news/5-best-vocal-teachers-on-youtube-offering-free-singing-lessons-in-2022/",
+            "visit_count": 0
+         }, {
+            "date_added": "13355307826022753",
+            "date_last_used": "0",
+            "guid": "5ae26196-6a41-465c-9784-1f49eacf140d",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The story of five women who climbed an iconic peak, met a bear and fought sexism in 1970",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scroll.in/magazine/817534/the-story-of-five-women-who-climbed-an-iconic-peak-met-a-bear-and-fought-sexism-in-1970",
+            "visit_count": 0
+         }, {
+            "date_added": "13357400601199359",
+            "date_last_used": "0",
+            "guid": "4376af57-f0ad-46cd-9b8e-c1a496182e4e",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bootstrap Text/Typography",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/bootstrap/bootstrap_typography.asp",
+            "visit_count": 0
+         }, {
+            "date_added": "13363284291485267",
+            "date_last_used": "0",
+            "guid": "b7cf81e2-62ed-44d2-a6c9-2f0c290c3bf3",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bootstrap 3 Tutorial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/bootstrap/default.asp",
+            "visit_count": 0
+         }, {
+            "date_added": "13381082111703088",
+            "date_last_used": "0",
+            "guid": "ad98d787-ff97-47b9-9bbf-d5f455e2a6c1",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "L'Oréal India India For Young Women in Science Scholarship 2024-25 [Get up to INR 1 lakh for Graduation]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.buddy4study.com/page/loreal-india-for-young-women-in-science-scholarships",
+            "visit_count": 1
+         }, {
+            "date_added": "13381082152660368",
+            "date_last_used": "0",
+            "guid": "166c74c8-45ec-4445-ac7c-0527382a85e0",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mahindra EmpowerHer Scholarship Program 2024-25 [Win INR 5,500]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.buddy4study.com/page/mahindra-empowerher-scholarship-program",
+            "visit_count": 1
+         }, {
+            "date_added": "13381082226116611",
+            "date_last_used": "0",
+            "guid": "f9c93b01-bab2-49f9-98df-63495c2d8698",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kind Circle Scholarship for Meritorious Students 2024-25 [Win scholarships of more than INR 6,000]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.buddy4study.com/page/kind-circle-scholarship-for-meritorious-students",
+            "visit_count": 1
+         }, {
+            "date_added": "13382358165325421",
+            "date_last_used": "0",
+            "guid": "5e3b6a03-ba3f-40cb-b445-6ab1e6b3d48f",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Smart Cities and the Internet of Things - NotebookLM",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://notebooklm.google.com/notebook/5e72c8ff-d48a-4fbd-b9c1-2a64f7eafff9?authuser=1&original_referer=https:%2F%2Fwww.bing.com%23&pli=1",
+            "visit_count": 1
+         }, {
+            "date_added": "13382474959587277",
+            "date_last_used": "0",
+            "guid": "c16b98b1-97f1-4a3a-9960-f85b9b8962ed",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CUrBrain TMSL · Luma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lu.ma/user/CUrBrain_TMSL",
+            "visit_count": 1
+         }, {
+            "date_added": "13382477553704958",
+            "date_last_used": "0",
+            "guid": "9be32274-e9f1-4db1-8695-9c10406c4db0",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IBM Open e-Learning Ecosystem",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ole03.yourlearning.ibm.com/mod/scorm/player.php?cat=72725e47db738bd385d1669b2e515712&a=518&currentorg=articulate_rise&scoid=2445&display=popup&mode=normal&lang=en",
+            "visit_count": 1
+         }, {
+            "date_added": "13382478271096934",
+            "date_last_used": "0",
+            "guid": "af6acd23-0696-4770-b512-4ba742001529",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "6 Best MERN Stack Online Courses for Beginners to Learn in 2024 | by javinpaul | Javarevisited | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/javarevisited/top-5-online-courses-to-learn-mern-stack-in-depth-9947230f194",
+            "visit_count": 1
+         }, {
+            "date_added": "13382722184244335",
+            "date_last_used": "0",
+            "guid": "da8424b8-9bcd-48cd-a21c-cb8fff0ba14b",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GDG on Campus Solution Challenge | Registration | Hack2skill",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vision.hack2skill.com/event/solutionschallenge2025/registration/?utm_source=hack2skill&utm_medium=homepage",
+            "visit_count": 1
+         }, {
+            "date_added": "13382902310007035",
+            "date_last_used": "0",
+            "guid": "31a8b174-97ae-44d3-9ad8-79b8eed5b21a",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Book Fossils: Contact for Latest Concert & Show Price",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.partymap.in/band-fossils/",
+            "visit_count": 1
+         }, {
+            "date_added": "13382902351878931",
+            "date_last_used": "0",
+            "guid": "846bc4f5-fd9c-4820-90a8-43b243adbf20",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Book / Hire LIVE BAND Fossils for Events in Best Prices - StarClinch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://starclinch.com/fossils",
+            "visit_count": 1
+         }, {
+            "date_added": "13383036187736987",
+            "date_last_used": "0",
+            "guid": "e93c4cec-91c8-4719-98a1-d99ea36d1c34",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download My Data | Snapchat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.snapchat.com/v2/download-my-data",
+            "visit_count": 1
+         }, {
+            "date_added": "13386967849096255",
+            "date_last_used": "0",
+            "guid": "d868b368-4cd0-41ac-b9a0-63dfc1b4496a",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Guitar Octave Shapes — Guitar Music Theory Lessons by Ry Naylor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.rynaylorguitar.com/lessons/guitar-octave-shapes-1",
+            "visit_count": 1
+         }, {
+            "date_added": "13388245971368248",
+            "date_last_used": "0",
+            "guid": "443952b9-d6ac-4beb-aabb-22f281bf2067",
+            "id": "30",
+            "name": "Flutter_UserProfile/lib/main.dart at master · ilagazo/Flutter_UserProfile",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/ilagazo/Flutter_UserProfile/blob/master/lib/main.dart",
+            "visit_count": 0
+         }, {
+            "date_added": "13388806616593071",
+            "date_last_used": "0",
+            "guid": "f99fc497-0365-4754-8838-1da438a7962d",
+            "id": "7",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13388806616592425",
+            "date_last_used": "0",
+            "guid": "7739da3f-d88d-4b51-b4e1-a6631f9aa021",
+            "id": "6",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         } ],
+         "date_added": "13388806616344529",
+         "date_last_used": "0",
+         "date_modified": "13388806616593071",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13388806616344532",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13388806616344540",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCDk0VSKWAQAAKg4QABgBIC4oBjAAOABAABIAKhhtdldLZXZQTVlCQVpVcWJUZVVkd2hnPT1IA6AGDBKvAQgdEqoBChwzcjJCa0tYK0dlS2pmcWZtZCtKMURtVHVsRDg9EiRkODY4YjM2OC00Y2QwLTQxYWMtYjlhMC02M2RmYzFiNDQ5NmEYACACKAIwpJjnkuIyOL+agqbbMkDev+aS4jJKHDROSldYZ3VPZ25JYmYrdjdoZjNSdE9WTHRPRT1aISIf///9S1NtU3lZS1lOV05ZY0ZuRHBUTER0QzdFc1JvPWUSUhizwj4CYAUSrwEIHBKqAQoceUhLbUQwQVVmWTBTcGJ3RnpMcjdpcUJhRWVvPRIkZTkzYzRjZWMtOTFjOC00NzE5LTk4YTEtZDk5ZWEzNmQxYzM0GAAgAigCMKOY55LiMji7r5/TzDJA3b/mkuIyShxQaTdXcVVjYU43TTZKbzhJQm1WVGpVd01yV2M9WiEiH///+1dLcnhvbVVJdEl5YjN1NHVWZUVIL2hnaGs5WT1l9kCdEcI+AmAFEq8BCBoSqgEKHExINGRIbFlRSHYwL2NDQmFuRUNyU29GS2pJOD0SJDMxYThiMTc0LTk3YWUtNDRkMy05YWQ4LTc5YjhlZWQ1YjIxYRgAIAIoAjCimOeS4jI4g5C0k8wyQNu/5pLiMkocallzWVJ0QUxXbHR0eU5XdlBwRVFTVmlJazhFPVohIh///+9qU2tlWWUyRmlCeFhvZGhKVUFidnhWakVmeU09ZTOCFGDCPgJgBRKtAQgJEqgBChxhWnpzY3hHVEVBMUVuQWtoaVRlWHl2ZmZOdjg9EiQxNTAxMDg3My05Yjc5LTRmNjMtYWQ2OS1iMDE1ZjU3NGQxM2YYACACKAIwn5jnkuIyOKie7tnCMUDBv+aS4jJKHE5mNnhVQ1R0ZHBERlVYcTQvNHhNNFdTcWFBcz1aHyIduFBCVDdReDRUSTM4MkxwL0drR3NFZXIrSURnND1loGQWgcI+AmAFEq4BCBUSqQEKHGo2b09sQ3lJL05hOHc2ZXl4b1pxeE9lRHpNRT0SJDVlM2I2YTAzLWJhM2YtNDBjYi1iNDQ1LTZhYjFlNmIzZDQ4ZhgAIAIoAjCbmOeS4jI45Jv4j8oyQNS/5pLiMkocbjI2eUQvMDREMy8zUmJRUFdTbXlOeEg2OVlrPVogIh7//TBDZXgrV0tDckRsRy9hUXN1Rm1pakdnbGNEdz1llMF9v8I+AmAFEq4BCBcSqQEKHHBsRnNFZlJnbVZEOWNkQ3p1TVY0UEdYM3lIND0SJDliZTMyMjc0LWU5ZjEtNGRiMS04Njk1LTljMTA0MDZjNGRiMBgAIAIoAjCdmOeS4jI4+YXvyMoyQNi/5pLiMkocZ2dlTlVVdU9udHFMZVZKRW5kUTI3cDliUWprPVogIh7//3p1U2tWeWJNUWJySzFiOFV3WmpoOHE5MDB3RT1l55kTdMI+AmAFEq4BCBQSqQEKHDdkdnJiMWF4bHhYUFhUTU81Y3FxYmc4OFpuTT0SJGY5YzkzYjAxLWJhYjItNDlmOS05OGRmLTYzNDk1YzJkODY5OBgAIAIoAjCZmOeS4jI48oDDr8UyQNK/5pLiMkocZFBRQk9BZFdOaEVRWElUTDBOVk5ReWIxbDA4PVogIh7/+mRGN1FKeHpIWVNFK1ZjNzdVUXlCNzZqMVRUTT1lxh/u8MI+AmAFEq4BCBISqQEKHDVjcnlLZS9xTlJHUjVVTWRqVDNWL0R1Zksrbz0SJGFkOThkNzg3LWZmOTctNDdiOS05YmJmLWQ1ZjQ1NWUyYTZjMRgAIAIoAjChmOeS4jI42Ie8r8UyQM+/5pLiMkocWkxGTDM1VWhPODkybXozTnp0SVBic0ZGenhBPVogIh7/6m9aTHhqZm1ZNE9VZlNYSkpxemhSTk1WdnFmTT1lxh/u8MI+AmAFEq4BCBESqQEKHHFrRkZQRDF4NUE3bFF3S2dKVm1vWkNGVlhUZz0SJGI3Y2Y4MWUyLTYyZWQtNDRkMi1hNmM5LTJmMGMyOTBjM2JmMxgAIAIoAjCamOeS4jI44ormiIMyQM2/5pLiMkocbFMvUXdxdXpMc2hMbDBWa29ybVRBdzc5cE5nPVogIh7/1G03RXZEaHlJSGJVK3I2VjNGNzkwaUFWZ2tUND1loytZI8I+AmAFEq8BCBkSqgEKHGNOd1RlWlFORzVvN1lYTXIvTGU4bG5ZZTlZbz0SJGRhODQyNGI4LTliY2QtNDhjZC1hMjFjLWNiOGZmZjBiYTE0YhgAIAIoAjCcmOeS4jI41I7CvcsyQNq/5pLiMkocVDZIL204UnFwUnRaaXN2bGovOS8rWjAxbVBzPVohIh///95CV2RSUHNsSnkzaGt0R1FSL1lWbGk3QUxRNG89ZRqosaPCPgJgBRKtAQgNEqgBChxweXE0V2J5MEx1S3VGVWtxUEIxdVY0bzBMcGc9EiRjZTI1NTdkNy1lYzA0LTQzOTUtYjdiNC0xZWQyNWZkZTEwZjUYACACKAIwl5jnkuIyOO/4l5bOMUDGv+aS4jJKHGNTb010NDErTUNGemNwcFlkaDBxZXdQMS9qaz1aHyId/WJZaEVYM3JhRUdaZkhmNHlrcERjTk1tdUx4bz1lHroKG8I+AmAFEq8BCB4SqgEKHEhEUUprUk81QjdySENNR2pueU43ZjNwU1BXMD0SJDQ0Mzk1MmI5LWQ2YWMtNGJlYi1hYWJiLTIyZjI4MWJmMjA2NxgAIAIoAjCgmOeS4jI4op+7h+AyQN+/5pLiMkocQXRDL3RqdFFZM0hHT09hQ0l2TE5CTUh3R2RZPVohIh////4yUE1mL2VudmVNTkVvYjh2N1pTVUVQVDcxVlU9ZRVQ+YnCPgJgBRKsAQgIEqcBChwvR1dQVm4zQ2hyQWFZRWx5OVpPZi9Nd3hITTA9EiQwYTEzMDQzOC1jZDQ2LTRjNzAtOGUyNS1jNDJlMzNlM2QzNzAYACACKAIwlZjnkuIyOMf2oYu5MUC/v+aS4jJKHGhjcTFUQlljaHN2Zng5UHBzdmxpeU1xZHAxaz1aHiIccTZuTEJQUnpWeWFudUFmOWFBd25TVEhaUTJjPWV1vjVSwj4CYAUSrQEIChKoAQocNFA2TVFEek9GSm5IOEpYcVdvNEVVeVRzOXJnPRIkNzcxMzdkNjEtMGFiOS00ZGMyLTg0OGQtYjViYTJlMGVlOGU5GAAgAigCMJiY55LiMjik1sbWyzFAwr/mkuIyShxqN2xNcUlNcDJCVnJMaFpoS3JYVjZ4dkpqL1E9Wh8iHe5WZitOK1l6SnBBaWs3aStEVjY4RHhST1luR2s9ZfMd+yLCPgJgBRKuAQgTEqkBChxmck5IdDI0V0hrWjd3dlExMGJkbDRQSkRmYzA9EiQxNjZjNzRjOC00NWVjLTQ0NDUtYWM3Yy0wNTI3MzgyYTg1ZTAYACACKAIwlpjnkuIyOMnDvq/FMkDQv+aS4jJKHGJnSXFRRnRNeElRZzlTd082OHlESGRGb0JMcz1aICIe//VxL0M3ZVFPV0hFM3FISHFOaS9vR2pnTXlJRms9ZcYf7vDCPgJgBRKtAQgLEqgBChxNSGRHZzh5L0hodUdncVgzRkJ0S1Q5VUg2UFU9EiRmOTVjYjcyYi0zYTAzLTQ5YzUtOTFiMS1mY2E1ZjNjMTUyYjEYACACKAIwkpjnkuIyON2m59bLMUDDv+aS4jJKHDhPeWNhOVRQOGxUS0ZEWWc4RGsreDlVTlkvaz1aHyId90Vxek9YNEdRaXVJWXN5VGpKSnpEVUZ1ZTdzTT1l5SCxXsI+AmAFEq4BCBYSqQEKHEprNHhBZVM5ekw5TnliN2oxSWthUitTeHk2az0SJGMxNmI5OGIxLTk3ZjEtNGEzYS05OTYwLWY4NWI5Yjg5NjJlZBgAIAIoAjCRmOeS4jI4geDQx8oyQNS/5pLiMkocbVpwbG53TXhUY216L2oxV3o2NTgvWTA2SkhnPVogIh7//mxkWDRlS2Nhay9Ld2pQQmNhL0FlUy91aHJvQT1lUl7RuMI+AmAFEq4BCBASqQEKHDV6YUw1TzQwVU9pSVRvaTh4ZFNYeHhoWU1KST0SJDQzNzZhZjU3LWYwYWQtNDZjZC05YjhlLWMxYTQ5NjE4MmU0ZRgAIAIoAjCQmOeS4jI46LSek+0xQMy/5pLiMkocNU96NTAyTVp0bis5U3Jwb0lNLzlQRG9HU0RjPVogIh7/qDJzdlVuNXJBUVB5TXNZVFJaSjVtS01XWldUcz1loytZI8I+AmAFEq8BCBsSqgEKHEVNSDJkc3NqTnJ2dk9VNUhQWFBaM1orSVFmWT0SJDg0NmJjNGY1LWZkOWMtNDgyMC05MGE4LTQzYjI0M2FkYmYyMBgAIAIoAjCPmOeS4jI439a2k8wyQNy/5pLiMkocMG4rL0I1Wm1ha1hHdWdLcjhwckpHNlIwOGVrPVohIh////cxM1d5OHc5N1gwenBHYzRwODI0MURNM0NIMDg9ZTOtRHHCPgJgBRKtAQgPEqgBChxvdnpqeDNJY09LWmV5VGQ1dEY3Y2JvY1BzWU09EiQ1YWUyNjE5Ni02YTQxLTQ2NWMtOTc4NC0xZjQ5ZWFjZjE0MGQYACACKAIwnpjnkuIyOL7Iqq3lMUDLv+aS4jJKHDlKb2IzejEwOXh4NW1Sd0pUQzNNbUx3RWM5cz1aHyId/1E2YVFEVisyUUx4Vm1hK3lCNVdJU0RVUTFiUT1lSezbCMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGJlNjI1ZTI5LTNhOWUtNTVlYy1hYWNmLWI0YTY5NzA1MWEwNhgAIAAoADCTk6zcuDE4hZus3LgxQIWbrNy4MUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ1ZDliYTc2MS0zMDFkLTUzMTItOGU4MS1iOWNkYjA3MzI0ODEYACAAKAAwjpOs3LgxOLSarNy4MUC0mqzcuDFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIDhKoAQocM1ZMdEQxcnFkTno1R3l3dGdoODcrRW1TVUdzPRIkM2RjMDRiZDYtZTk5ZS00Zjg0LWI3MmEtNGE0NDk3NGE4MWEyGAAgAigCMI6Y55LiMjjwg/np4DFAyr/mkuIyShwvSERIbHhoV2VYRngvakdEdG1GRUtINGI4QjQ9Wh8iHf5XVkNGOFVrckV3bUNPNFYzVnRGNlJMa0lqTW89ZRw5qT7CPgJgBRKvAQgYEqoBChxZbGVjRGI0ZUVsK2VzeEIxZkltY3BuUnJkZVU9EiRhZjZhY2QyMy0wNjk2LTQ3NzAtYjUxMi00YmE3NDIwMDE1MjkYACACKAIwlJjnkuIyOMbumsnKMkDZv+aS4jJKHGxEZ0djU20wMlBEd2lwTCtFWHRIMksrWDJkUT1aISIf//+9S0xVWExFSndaWWxlRCtvTTM1V25ETmxhTGxJPWWrTXzLwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMmRmZTRmMmYtZDZhMy01YzFmLWIyODUtNGE5NDI0NjlkZGRiGAAgACgAMI2TrNy4MTiPmqzcuDFAj5qs3LgxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCAwSqAEKHDJDMUw1bTlJcHFmdUtXcFVtc0FwdUcxOXhSMD0SJDg0ZjY1YjBiLThkMTctNDdlMC1iNjAzLTA2N2I1ZjQ0NWEzOBgAIAIoAjCTmOeS4jI4t7y3m80xQMS/5pLiMkocVFVHQTJrNUFMZ1k3NWtUMURIcVVwQWFNeTA0PVofIh37T3UrbjNkQllwS3QwNDBXemZ6SDZWR1FQTDk4PWWVwviEwj4CYAUwADgA",
+   "version": 1
+}
